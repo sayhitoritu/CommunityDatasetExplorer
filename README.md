@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes student performance data to explore how weekly study time and school absences relate to students' final grades.
+This project analyzes student performance data to explore how weekly study time, school absences, and previous class failures relate to students' final grades.
 
 The dataset contains information about 395 students, including study time, absences, and final grades. It is the Student Performance dataset from the UCI Machine Learning Repository.
 
@@ -31,7 +31,7 @@ Students with zero past class failures had the highest average final grade, appr
 
 **Conclusion:**
 
-The analysis shows differences in average final grades across study-time and absence groups. Study time and school attendance are useful factors to explore when understanding student performance. These results show patterns in this dataset and do not prove that one factor directly causes a particular grade.
+The analysis explores differences in average final grades across study-time, school-absence, and previous-class-failure groups. These factors are useful for understanding patterns in student performance. However, the results show associations and do not prove that one factor directly causes a particular grade.
 
 ## Development Environment
 
